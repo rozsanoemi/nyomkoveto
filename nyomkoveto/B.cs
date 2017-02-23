@@ -37,6 +37,7 @@ namespace nyomkoveto
         protected virtual void V1()
         {
             Console.WriteLine("B::V1");
+            Console.WriteLine("aaaj");
             Console.ReadKey();
             S5();
         }
